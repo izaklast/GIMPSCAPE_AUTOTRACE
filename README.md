@@ -5,6 +5,7 @@ GIMP to INKSCAPE Auto Trace Bitmap
 While editing a pic in GIMP, one-click function to auto trace Bitmap in Inkscape with last used settings.
 
 Issues:
+
 1. Settings stored or set manually for each session?
 2. Auto detect changes in GIMP and disable trigger unless changes made?
 
