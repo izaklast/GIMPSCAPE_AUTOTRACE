@@ -28,4 +28,4 @@ INKSCAPE SIDE:
 7. #retrieve last used settings
 8. #apply trace to current selection
 9. #close trace bitmap
-10.#select new vectors for review
+10. #select new vectors for review
