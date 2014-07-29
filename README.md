@@ -11,6 +11,7 @@ Issues:
 
 
 GIMP SIDE:
+
 1. #check for file save yes/no
 2. #File save using to previous file location 
 3. #initiate INKSCAPE trigger
