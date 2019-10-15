@@ -23,7 +23,7 @@ INKSCAPE SIDE:
 2. #pull file from save location
 3. #delete currenet selection in worksapce
 4. #import saved file into workspace
-5. #select image in worspace
+5. #select image in workspace
 6. #initiate trace bitmap script
 7. #retrieve last used settings
 8. #apply trace to current selection
